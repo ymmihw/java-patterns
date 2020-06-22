@@ -30,4 +30,8 @@
    </plugin>
   </plugins>
  </build>
+ <modules>
+  <module>service-locator</module>
+  <module>java-currying</module>
+ </modules>
 </project>
